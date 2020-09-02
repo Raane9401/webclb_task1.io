@@ -330,6 +330,7 @@ input[type=submit]:hover{
   	text-align: center;
   }
   .content{
+	 width:110%;
   	height:750px;
   	padding:15px;
   	text-align:center;
