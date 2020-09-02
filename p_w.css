@@ -318,7 +318,7 @@ input[type=submit]:hover{
 }
 @media  screen and (max-width: 800px) {
   .head{
-    width:110%;
+    width:120%;
   }
   .head h1{
   	font-size:30px;
@@ -369,10 +369,10 @@ input[type=submit]:hover{
 .pic .cont{
 	width:300px;
 	height:450px;
-	margin-top:-550px;
+	margin-top:-450px;
 }
 #foot{
-	width:110%;
+	width:120%;
 }
  #foot hr{
  	width:300px;
