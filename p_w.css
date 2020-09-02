@@ -316,7 +316,7 @@ input[type=submit]:hover{
 	background-color:hsl(187, 52%, 80%,0.2);
 	outline:none;
 }
-@media  screen and (max-width: 700px) {
+@media  screen and (max-width: 900px) {
   .head{
     width:101%;
   }
