@@ -318,13 +318,13 @@ input[type=submit]:hover{
 }
 @media  screen and (max-width: 900px) {
   .head{
-    width:101%;
+    width:100%;
   }
   .head h1{
   	font-size:30px;
   }
   .head hr{
-  	width:350px;
+  	width:300px;
   }
   .content h1{
   	text-align: center;
@@ -334,8 +334,8 @@ input[type=submit]:hover{
   	padding:15px;
   	text-align:center;
   }
- /* .content_1 img{
-	width:350px;
+  .content_1 img{
+	width:250px;
 	height:150px;
 	margin:20px;
 	margin-left:15%;
@@ -346,7 +346,7 @@ input[type=submit]:hover{
  	text-align:center;
  	display:flex;
  	flex-direction:column-reverse;
- }*/
+ }
  .content_1 p{
 	font-size:16px;
 	font-family:verdana;
@@ -374,7 +374,7 @@ input[type=submit]:hover{
 	width:250px;
 	height:200px;
 	margin:20px;
-	margin-left:27%;
+	margin-left:25%;
 	text-align: center;
 	border-radius:20px;
 	box-shadow:2px 2px 2px 2px hsl(0, 0%, 45%,0.3);
