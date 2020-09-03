@@ -316,7 +316,7 @@ input[type=submit]:hover{
 	background-color:hsl(187, 52%, 80%,0.2);
 	outline:none;
 }
-@media  screen and (max-width: 700px) {
+@media  screen and (max-width: 600px) {
   .head{
     width:120%;
   }
@@ -411,7 +411,7 @@ input[type=submit]:hover{
 	border:1px solid black;
 }
 input[type=submit]{
-	margin-left:100px;
+	margin-left:50px;
 	margin-top:30px;
 	width:150px;
 	text-align:center;
