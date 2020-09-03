@@ -199,7 +199,6 @@ footer{
 	margin:10px;
 	margin-top:50px;
 	height:720px;
-	padding:15px;
 	background-color: white;
 }
 .p_k h1{
@@ -381,6 +380,7 @@ input[type=submit]:hover{
  .p_k{
 	margin:10px;
 	margin-top:50px;
+	padding:5px;
 	width: 110%;
 	height:1200px;
 	background-color: white;
