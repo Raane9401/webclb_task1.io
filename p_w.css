@@ -318,7 +318,7 @@ input[type=submit]:hover{
 }
 @media  screen and (min-width:300px) and (max-width:500px) {
   .navi{
-  	width:97.2%;
+  	width:99%;
   	height:9%;
   }
   h1{
