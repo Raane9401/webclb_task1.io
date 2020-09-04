@@ -434,8 +434,14 @@ input[type=submit]:hover{
 	height:850px;
 	border:1px solid black;
 }
+input[type=text],input[type=password]{
+	width:200px;
+}
+#q{
+	width:250px;
+}
 input[type=submit]{
-	margin-left:70px;
+	margin-left:50px;
 	margin-top:30px;
 	width:150px;
 	text-align:center;
